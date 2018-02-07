@@ -1,0 +1,81 @@
+div { border: 1px solid black; }
+
+body {
+  margin:0px;
+}
+/* Section 1 */
+#menu-fixed {
+padding: 0.5%;
+}
+
+/* Section 2 */
+#intro {
+
+}
+
+#menu-scroll {
+  margin-top: 1%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 1.5%;
+  padding: 1%;
+}
+ #image-over {
+  margin-bottom: 3%;
+  margin-left: 26%;
+  width: 20%;
+  text-align: center;
+  padding: 14%;
+}
+
+#buy-now {
+margin-bottom: 1%;
+margin-left: 42%;
+width: 15%;
+text-align: center;
+padding: 1%;
+}
+
+#watch-trailer {
+margin-bottom: 6%;
+margin-left: 42%;
+width: 15%;
+text-align: center;
+padding: 1%;
+}
+
+/* Section 3 */
+
+
+#featured-news {
+
+}
+
+#featured-text {
+  margin-left: 39.5%;
+  margin-right: 42%;
+  margin-top: 2%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+
+}
+
+.featured-video {
+  margin-left: 11%;
+  width: 10%;
+  display: inline-block;
+  margin-top: 3%;
+  text-align: center;
+  padding: 4.5%;
+}
+
+#view-all-news {
+  margin-left: 39.5%;
+  margin-right: 42%;
+  margin-top: 2%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+  margin-bottom: 3%;
+}
