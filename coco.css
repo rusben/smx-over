@@ -109,3 +109,57 @@ padding: 1%;
   margin-bottom: 3%;
   padding: 1%;
 }
+
+ /* Section 5 */
+/*-----------*/
+#heroe-selector {
+
+}
+
+#need-heroes {
+  text-align: center;
+  width: 25%;
+  margin-left: 36.5%;
+  margin-top: 3%;
+  padding: 0.5%;
+  margin-bottom: 1%;
+}
+
+#text-heroes {
+  text-align: center;
+  width: 35%;
+  margin-left: 30%;
+  margin-bottom: 1%;
+  padding: 2%;
+  margin-bottom: 8%;
+}
+
+#random-heroes {
+  text-align: center;
+  padding: 6%;
+}
+
+.line1 {
+  width: 1%;
+  padding: 2%;
+  text-align: center;
+  border-radius: 10px;
+  -ms-transform: skew(25rad);
+  transform: skew(25rad);
+  display: inline-block;
+  margin-top: 6.5%;
+  margin-left: 0.5%;
+}
+
+.line2 {
+  width: 1%;
+  padding: 2%;
+  text-align: center;
+  border-radius: 10px;
+  -ms-transform: skew(25rad);
+  transform: skew(25rad);
+  display: inline-block;
+  margin-bottom: 5%;
+  margin-left: 0.5%;
+  margin-top: 1%;
+}
