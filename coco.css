@@ -3,12 +3,14 @@ div { border: 1px solid black; }
 body {
   margin:0px;
 }
-/* Section 1 */
+ /* Section 1 */
+/*-----------*/
 #menu-fixed {
 padding: 0.5%;
 }
 
-/* Section 2 */
+ /* Section 2 */
+/*-----------*/
 #intro {
 
 }
@@ -44,8 +46,8 @@ text-align: center;
 padding: 1%;
 }
 
-/* Section 3 */
-
+ /* Section 3 */
+/*-----------*/
 
 #featured-news {
 
@@ -78,4 +80,32 @@ padding: 1%;
   width: 20%;
   padding: 1%;
   margin-bottom: 3%;
+}
+
+ /* Section 4 */
+/*-----------*/
+
+#fight-title {
+  text-align: center;
+  width: 25%;
+  margin-left: 36.5%;
+  margin-top: 3%;
+  padding: 0.5%;
+  margin-bottom: 1%;
+}
+
+#fight-text {
+  text-align: center;
+  width: 35%;
+  margin-left: 26%;
+  margin-bottom: 1%;
+  padding: 7%;
+}
+
+#explore-game {
+  text-align: center;
+  width: 20%;
+  margin-left: 39.5%;
+  margin-bottom: 3%;
+  padding: 1%;
 }
