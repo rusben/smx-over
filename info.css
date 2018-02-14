@@ -22,19 +22,75 @@ body {
 .tu_heroe {
   height: 800px;
 }
-
+  .elige_tu_heroe {
+    text-align: center;
+    margin-top: 17%;
+  }
+  .p2{
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+  }
+  .ver_todos_los_heroes {
+    text-align: center;
+    display: inline-block;
+    margin-left: 43%;
+  }
 .funciones {
   height: 1050px;
 }
+.funciones_de_los_heroes {
+  margin: 4%;
+  text-align: center;
+}
+.img-roles {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 5%;
 
+}
+.column1 {
+  width: 17%;
+  float: left;
+  margin-left: 12%;
+}
+.column2 {
+  width: 17%;
+  float: left;
+  margin-left: 1%;
+
+}
+.column3 {
+  width: 17%;
+  float: left;
+  margin-left: 1%;
+
+}
+.column4 {
+  width: 17%;
+  float: left;
+  margin-left: 1%;
+
+}
 .mapas_info {
   height: 300px;
 }
 
+.mapas {
+  text-align: center;
+  margin-top: 4%;
+}
+.p3{
+  text-align: center;
+  width: 50%;
+  margin-left: 24%;
+}
 .modos_info {
   height: 560px;
 }
-
+.img-arena {
+  width: 3.5%;
+}
 .mapas_img {
   height: 2800px;
 }
