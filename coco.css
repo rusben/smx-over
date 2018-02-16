@@ -138,6 +138,8 @@ padding: 1%;
   text-align: center;
   padding: 6%;
 }
+#line-heroes{
+}
 
 .line1 {
   width: 1%;
@@ -162,4 +164,21 @@ padding: 1%;
   margin-bottom: 5%;
   margin-left: 0.5%;
   margin-top: 1%;
+}
+
+.image-dorado {
+  background-size: cover;
+  min-height: 14rem;
+  background-position-x: center;
+  background-position-y: 16%;
+  min-height: 20rem;
+  height: 1000px;
+}
+
+#image-parallax {
+  height: 50%;
+  background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
