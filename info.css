@@ -89,23 +89,89 @@ body {
   height: 560px;
 }
 .img-arena1 {
-  width: 3.5%;
+  width: 25%;
+  margin-bottom: 5%;
 }
 .img-arena2 {
-  width: 3.5%;
+  width: 25%;
+  margin-bottom: 5%;
 }
 .img-arena3 {
-  width: 3.5%;
+  width: 25%;
+  margin-bottom: 5%;
 }
 .a1{
-  float: right;
-  margin-right: 75%;
+  float: left;
+  display: inline;
 }
 .a2{
-  float: right;
-  margin-right: 65%;
-  display: block;
+  float: left;
+  display: inline;
+  margin-left: 6%;
 }
+.a3 {
+  float: left;
+  display: inline;
+  margin-left: 5%;
+}
+
+.a4{
+  float: left;
+  display: inline;
+}
+.a5{
+  float: left;
+  display: inline;
+}
+.a6 {
+  float: left;
+  display: inline;
+  margin-left: 5%;
+}
+.a7 {
+  float: left;
+  display: inline;
+  margin-left: 5%;
+}
+.a8 {
+  float: left;
+  display: inline;
+  margin-left: 5%;
+}
+.la1 {
+  margin-top: 2%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.la2 {
+  margin-top: 2%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.la3 {
+  margin-top: 2%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.arena {
+  max-width: 18%;
+  margin-left: 20%;
+  margin-left: 20%;
+  display: table-cell;
+}
+
+.p4 {
+ margin-top: 0;
+}
+h4 {
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+.bandera {
+  max-width: 18%;
+  margin-left: 20%;
+  margin-left: 20%;
+  display: table-cell;
 }
 .mapas_img {
   height: 2800px;
