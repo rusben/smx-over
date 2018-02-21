@@ -88,8 +88,24 @@ body {
 .modos_info {
   height: 560px;
 }
-.img-arena {
+.img-arena1 {
   width: 3.5%;
+}
+.img-arena2 {
+  width: 3.5%;
+}
+.img-arena3 {
+  width: 3.5%;
+}
+.a1{
+  float: right;
+  margin-right: 75%;
+}
+.a2{
+  float: right;
+  margin-right: 65%;
+  display: block;
+}
 }
 .mapas_img {
   height: 2800px;
