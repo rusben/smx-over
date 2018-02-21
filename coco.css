@@ -1,4 +1,4 @@
-div { border: 1px solid black; }
+div { border: 1px solid black; overflow: auto;;}
 
 body {
   margin:0px;
@@ -166,14 +166,7 @@ padding: 1%;
   margin-top: 1%;
 }
 
-.image-dorado {
-  background-size: cover;
-  min-height: 14rem;
-  background-position-x: center;
-  background-position-y: 16%;
-  min-height: 20rem;
-  height: 1000px;
-}
+
 
 #image-parallax {
   height: 50%;
@@ -182,3 +175,51 @@ padding: 1%;
    background-repeat: no-repeat;
    background-size: cover;
 }
+
+#begin-watch {
+
+}
+#begin-image {
+  float: left;
+  width: 30%;
+  padding-top: 12.5%;
+  padding-bottom: 12.5%;
+  padding-right: 12.5%;
+  text-align: center;
+  margin-left: 5%;
+}
+#begin-title {
+  float: right;
+  margin-right: 22%;
+  margin-top: 3%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+}
+#begin-text {
+  float: right;
+  margin-right: 22%;
+  margin-top: 3%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+}
+#begin-buy {
+  float: right;
+  margin-right: 22%;
+  margin-top: 3%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+}
+#begin-image2 {
+  float: right;
+  margin-right: 22%;
+  margin-top: 3%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+  margin-bottom: 1%;
+}
+
+#stay-conected {}
