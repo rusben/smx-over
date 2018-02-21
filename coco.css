@@ -1,4 +1,4 @@
-div { border: 1px solid black; }
+div { border: 1px solid black; overflow: auto;;}
 
 body {
   margin:0px;
@@ -138,6 +138,8 @@ padding: 1%;
   text-align: center;
   padding: 6%;
 }
+#line-heroes{
+}
 
 .line1 {
   width: 1%;
@@ -163,3 +165,61 @@ padding: 1%;
   margin-left: 0.5%;
   margin-top: 1%;
 }
+
+
+
+#image-parallax {
+  height: 50%;
+  background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#begin-watch {
+
+}
+#begin-image {
+  float: left;
+  width: 30%;
+  padding-top: 12.5%;
+  padding-bottom: 12.5%;
+  padding-right: 12.5%;
+  text-align: center;
+  margin-left: 5%;
+}
+#begin-title {
+  float: right;
+  margin-right: 22%;
+  margin-top: 3%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+}
+#begin-text {
+  float: right;
+  margin-right: 22%;
+  margin-top: 3%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+}
+#begin-buy {
+  float: right;
+  margin-right: 22%;
+  margin-top: 3%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+}
+#begin-image2 {
+  float: right;
+  margin-right: 22%;
+  margin-top: 3%;
+  text-align: center;
+  width: 20%;
+  padding: 1%;
+  margin-bottom: 1%;
+}
+
+#stay-conected {}
