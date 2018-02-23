@@ -1,4 +1,4 @@
-* {border: 1px; border-style: solid;}
+ {border: 1px; border-style: solid;}
 
 body {
   margin: 0px;
@@ -97,7 +97,7 @@ body {
   margin-bottom: 5%;
 }
 .img-arena3 {
-  width: 25%;
+  width: 17%;
   margin-bottom: 5%;
 }
 .a1{
@@ -150,8 +150,8 @@ body {
 }
 .la3 {
   margin-top: 2%;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 26%;
+  margin-right: 26%;
 }
 .arena {
   max-width: 18%;
@@ -159,13 +159,16 @@ body {
   margin-left: 20%;
   display: table-cell;
 }
-
+.control {
+  margin-left: 20%;
+  display: table-cell;
+}
 .p4 {
  margin-top: 0;
 }
 h4 {
   margin-bottom: 1%;
-  margin-top: 1%;
+  margin-top: 0;
 }
 .bandera {
   max-width: 18%;
@@ -173,6 +176,8 @@ h4 {
   margin-left: 20%;
   display: table-cell;
 }
+
+
 .mapas_img {
   height: 2800px;
 }
