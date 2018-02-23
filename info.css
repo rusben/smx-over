@@ -1,0 +1,211 @@
+ {border: 1px; border-style: solid;}
+
+body {
+  margin: 0px;
+}
+.bienvenidos {
+  height: 650px;
+}
+
+.content1{
+  margin-top: 8%;
+  margin-left: 18%;
+  margin-right: 18%;
+}
+
+.p1{
+  float: right;
+  margin-right: 20%;
+  width: 30%;
+}
+
+.tu_heroe {
+  height: 800px;
+}
+  .elige_tu_heroe {
+    text-align: center;
+    margin-top: 17%;
+  }
+  .p2{
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+  }
+  .ver_todos_los_heroes {
+    text-align: center;
+    display: inline-block;
+    margin-left: 43%;
+  }
+.funciones {
+  height: 1050px;
+}
+.funciones_de_los_heroes {
+  margin: 4%;
+  text-align: center;
+}
+.img-roles {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 5%;
+
+}
+.column1 {
+  width: 17%;
+  float: left;
+  margin-left: 12%;
+}
+.column2 {
+  width: 17%;
+  float: left;
+  margin-left: 1%;
+
+}
+.column3 {
+  width: 17%;
+  float: left;
+  margin-left: 1%;
+
+}
+.column4 {
+  width: 17%;
+  float: left;
+  margin-left: 1%;
+
+}
+.mapas_info {
+  height: 300px;
+}
+
+.mapas {
+  text-align: center;
+  margin-top: 4%;
+}
+.p3{
+  text-align: center;
+  width: 50%;
+  margin-left: 24%;
+}
+.modos_info {
+  height: 560px;
+}
+.img-arena1 {
+  width: 25%;
+  margin-bottom: 5%;
+}
+.img-arena2 {
+  width: 25%;
+  margin-bottom: 5%;
+}
+.img-arena3 {
+  width: 17%;
+  margin-bottom: 5%;
+}
+.a1{
+  float: left;
+  display: inline;
+}
+.a2{
+  float: left;
+  display: inline;
+  margin-left: 6%;
+}
+.a3 {
+  float: left;
+  display: inline;
+  margin-left: 5%;
+}
+
+.a4{
+  float: left;
+  display: inline;
+}
+.a5{
+  float: left;
+  display: inline;
+}
+.a6 {
+  float: left;
+  display: inline;
+  margin-left: 5%;
+}
+.a7 {
+  float: left;
+  display: inline;
+  margin-left: 5%;
+}
+.a8 {
+  float: left;
+  display: inline;
+  margin-left: 5%;
+}
+.la1 {
+  margin-top: 2%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.la2 {
+  margin-top: 2%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.la3 {
+  margin-top: 2%;
+  margin-left: 26%;
+  margin-right: 26%;
+}
+.arena {
+  max-width: 18%;
+  margin-left: 20%;
+  margin-left: 20%;
+  display: table-cell;
+}
+.control {
+  margin-left: 20%;
+  display: table-cell;
+}
+.p4 {
+ margin-top: 0;
+}
+h4 {
+  margin-bottom: 1%;
+  margin-top: 0;
+}
+.bandera {
+  max-width: 18%;
+  margin-left: 20%;
+  margin-left: 20%;
+  display: table-cell;
+}
+
+
+.mapas_img {
+  height: 2800px;
+}
+
+.fundamentos {
+  height: 980px;
+}
+
+.partida {
+  height: 1380px;
+}
+
+.proceso {
+  height: 1480px;
+}
+
+.modos {
+  height: 1400px;
+}
+
+.amigos {
+  height: 300px;
+}
+
+.redes {
+  height: 200px;
+}
+
+footer {
+  height: 400px;
+}
