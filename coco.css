@@ -5,9 +5,7 @@ body {
 }
  /* Section 1 */
 /*-----------*/
-#menu-fixed {
-padding: 0.5%;
-}
+
 
  /* Section 2 */
 /*-----------*/
@@ -109,3 +107,69 @@ padding: 1%;
   margin-bottom: 3%;
   padding: 1%;
 }
+
+/*------------------------ MENU 1------------------------- */
+body #menu-fixed {
+	background:#000000;
+	margin-bottom:0px;
+}
+
+body #menu-fixed ul {
+	list-style: none;
+	overflow: hidden;
+}
+
+body #menu-fixed ul li {
+	float: left;
+}
+
+body #menu-fixed ul li a {
+	display: block;
+	padding:0px;
+  padding-right: 27px;
+	color:#d9d9d9;
+	text-decoration: none;
+}
+
+body #menu-fixed ul li a:hover {
+  color:#fff;
+
+}
+/*--------------------------------------------------------*/
+
+/*---------------------------MENU 2-----------------------*/
+body #menu-scroll {
+	background:#3498db;
+	margin-bottom:10px;
+}
+
+body #menu-scroll ul {
+	list-style: none;
+	overflow: hidden;
+}
+
+body #menu-scroll ul li {
+	float: left;
+}
+
+body #menu-scroll ul li a {
+	display: block;
+	padding:20px;
+	color:#fff;
+	text-decoration: none;
+}
+
+body #menu-scroll ul li a:hover {
+	background:#2980b9;
+}
+
+/* --- Clase que agregaremos cuando el usuario haga scroll --- */
+.clase-agregada {
+	position:fixed;
+	z-index:1000;
+	top:0;
+	max-width:1000px;
+	width:100%;
+	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+
+  /*--------------------------------------------------------*/
