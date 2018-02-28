@@ -109,21 +109,21 @@ padding: 1%;
 }
 
 /*------------------------ MENU 1------------------------- */
-body #menu-fixed {
+#menu-fixed {
 	background:#000000;
-	margin-bottom:0px;
+	margin-bottom:25px;
 }
 
-body #menu-fixed ul {
+#menu-fixed ul {
 	list-style: none;
 	overflow: hidden;
 }
 
-body #menu-fixed ul li {
+#menu-fixed ul li {
 	float: left;
 }
 
-body #menu-fixed ul li a {
+#menu-fixed ul li a {
 	display: block;
 	padding:0px;
   padding-right: 27px;
@@ -131,36 +131,45 @@ body #menu-fixed ul li a {
 	text-decoration: none;
 }
 
-body #menu-fixed ul li a:hover {
+#menu-fixed ul li a:hover {
   color:#fff;
 
 }
 /*--------------------------------------------------------*/
 
 /*---------------------------MENU 2-----------------------*/
-body #menu-scroll {
-	background:#3498db;
-	margin-bottom:10px;
+.menu-scroll {
+	background:#000000;
+	margin-bottom:20px;
+  margin-left: 9%;
+  margin-right: 8%;
+width: 80%;
+  opacity: 0.9;
+
 }
 
-body #menu-scroll ul {
+.menu-scroll ul {
 	list-style: none;
 	overflow: hidden;
+
 }
 
-body #menu-scroll ul li {
+.menu-scroll ul li {
 	float: left;
+
 }
 
-body #menu-scroll ul li a {
+.menu-scroll ul li a {
 	display: block;
-	padding:20px;
-	color:#fff;
+	padding:5px;
+	color:#d9d9d9;
 	text-decoration: none;
+
+
 }
 
-body #menu-scroll ul li a:hover {
-	background:#2980b9;
+.menu-scroll ul li a:hover {
+  color: #ff6600;
 }
 
 /* --- Clase que agregaremos cuando el usuario haga scroll --- */
@@ -168,8 +177,11 @@ body #menu-scroll ul li a:hover {
 	position:fixed;
 	z-index:1000;
 	top:0;
-	max-width:1000px;
-	width:100%;
+	max-width:10000000px;
+	width:80%;
 	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+
+
+}
 
   /*--------------------------------------------------------*/
