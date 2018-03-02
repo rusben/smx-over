@@ -1,4 +1,4 @@
- {border: 1px; border-style: solid;}
+* {border: 1px; border-style: solid;}
 
 body {
   margin: 0px;
@@ -181,7 +181,16 @@ h4 {
 .mapas_img {
   height: 2800px;
 }
-
+.img-maps{
+  max-width: 100%;
+}
+.div-maps{
+  max-width: 20%;
+  float: left;
+}
+.dorado {
+  height: 95%;
+}
 .fundamentos {
   height: 980px;
 }
