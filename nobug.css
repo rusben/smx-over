@@ -11,9 +11,7 @@ body {
 
  /* Section 2 */
 /*-----------*/
-#intro {
 
-}
 
 #menu-scroll {
   margin-top: 1%;
@@ -64,7 +62,7 @@ padding: 1%;
 }
 
 .featured-video1 {
-  margin-left: 20%;
+  margin-left: 7.5%;
   display: inline-block;
   margin-top: 1%;
   text-align: center;
@@ -80,7 +78,7 @@ padding: 1%;
   padding: 0%;
 }
 .featured-video3 {
-  margin-right: 11%;
+  margin-right: 6.5%;
   display: inline-block;
   margin-top: 1%;
   text-align: center;
@@ -245,3 +243,32 @@ padding: 1%;
     background-color: #555;
     color: white;
   }
+
+/*BOTON DE EXPLORE THE GAME*/
+  .cmamut {
+  display: inline-block;
+    vertical-align: middle;
+    padding: 6px 1em;
+    border-radius: 2px;
+    border: 3px solid transparent;
+    font-family: FuturaNo2D,century gothic,arial,sans-serif;
+    font-weight: 700;
+    /*font-size: 1.6rem;*/
+    text-align: center;
+    /*line-height: 1;*/
+    letter-spacing: .025em;
+    /*text-shadow: none;*/
+    text-decoration: none; /*Quitar el subrayado*/
+    /*outline: none;*/
+    background-color: #ff9c00;
+    color: #fefefe;
+}
+
+/*ICONO PLAY DE WATCH TRAILER*/
+.image-icon {
+  width: 2%;
+  height: 2%;
+  margin-right: 4px;
+  margin-top: 3px;
+  vertical-align: text-bottom;
+}
