@@ -176,26 +176,43 @@ h4 {
   margin-left: 20%;
   display: table-cell;
 }
-
-
+.margin-maps {
+  margin-left: 19%;
+}
 .mapas_img {
   height: 2800px;
 }
 .img-maps{
   max-width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 .div-maps{
   max-width: 20%;
   float: left;
-//n-left: 5%;
+  margin-right: 1%;
+  margin-top: 3%;
 }
-.dorado {
-  height: 95%;
+.p5 {
+  text-align: center;
 }
 .fundamentos {
   height: 980px;
 }
-
+.fundamentos-title {
+  text-align: center;
+  margin-top: 4%;
+}
+.fundamentos-txt {
+  text-align: center;
+  margin-top: 1%;
+  margin-left: 23.2%;
+  margin-right: 23.2%;
+  display: block;
+}
+.habilidades{
+  margin-left: 15%;
+}
 .partida {
   height: 1380px;
 }
