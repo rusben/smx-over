@@ -48,7 +48,11 @@ padding: 1%;
 /*-----------*/
 
 #featured-news {
-
+  background-image: url("https://d3hmvhl7ru3t12.cloudfront.net/img/pages/home/fight-for-the-future/volskaya-2560-9570e63637d0f4eb811cc11cc3b91005987bc21949bf8d9d48ebb9b4e67aa872f58666702415c32aef6c85fb36b567717857fb868ed9940280173a331e9b7ddf.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 #featured-text {
@@ -97,7 +101,13 @@ padding: 1%;
 
  /* Section 4 */
 /*-----------*/
-
+#fight-future {
+  background-image: url("https://d3hmvhl7ru3t12.cloudfront.net/img/pages/home/fight-for-the-future/london-2560-315e74f8af81f11bfa7c4e175712246b104203b24e9a360540ff407c5fb4d48fb039f2e4ded78a803b57ba5ba84a9c974c24a322950a0f106d4457554418cfb8.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 #fight-title {
   text-align: center;
   width: 25%;
@@ -246,7 +256,7 @@ padding: 1%;
 .button-cmamut {
 width: 5%; /*Este solo para view watch-trailer*/
 vertical-align: middle;
-padding: 6px 1em;
+padding: 15px 2.5em;
 border-radius: 3px; /*Borde redondo*/
 border: 3px solid transparent; /*El solid transparent lo hace más rechoncho*/
 font-family: FuturaNo2D,century gothic,arial,sans-serif;
@@ -260,10 +270,10 @@ text-decoration: none; /*Quitar el subrayado*/
 /*outline: none;*/
 background-color: #00a5e2;
 color: #fefefe;
-
 }
 
 .button-cmamut-orange {
+  width: 50px;
   background-color: #ffb033;
   color: #fefefe;
 }
