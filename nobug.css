@@ -1,4 +1,4 @@
-div { border: 1px solid black; }
+div {border: 1px solid white;}
 
 body {
   margin:0px;
@@ -37,7 +37,7 @@ padding: 1%;
 }
 
 #watch-trailer {
-margin-bottom: 6%;
+margin-bottom: %;
 margin-left: 42%;
 width: 15%;
 text-align: center;
@@ -231,7 +231,7 @@ padding: 1%;
   }
 
   .pene {
-    width: 65%;
+    width: 80%;
   }
 
 
