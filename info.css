@@ -1,4 +1,4 @@
-* {
+{
   border: 1px;
   border-style: solid;
 }
@@ -9,7 +9,16 @@ body {
 
 .bienvenidos {
   height: 650px;
+  background-image: url('backgrounds/bg1.jpg');
+  background-size: 100%;
+  border-bottom: 3px;
+  border-right: 3px;
+  border-left: 3px;
+  border-top: 3px;
+  border-bottom-style: inset;
+
 }
+
 
 .content1 {
   margin-top: 8%;
@@ -23,6 +32,9 @@ body {
   width: 30%;
 }
 
+.font1 {
+  color: white;
+}
 .tu_heroe {
   height: 800px;
 }
@@ -292,7 +304,7 @@ h4 {
 }
 
 .progreso {
-  height: 1480px;
+  height: 1680px;
 }
 
 .progreso-title {
@@ -320,6 +332,11 @@ h4 {
   margin-right: 50%;
   display: -webkit-inline-box;
 }
+.progreso-p-2 {
+  margin-left: 40%;
+  margin-right: 25%;
+  display: block;
+}
 
 .img-progreso-rank {
   max-width: 39%;
@@ -327,12 +344,47 @@ h4 {
   display: block;
 }
 
+.img-progreso-level {
+  max-width: 25%;
+  float: left;
+  display: block;
+  margin-left: 15%;
+}
+.botin {
+  margin-top: 5%;
+}
 .modos {
   height: 1400px;
+}
+.div-mode {
+  max-width: 20%;
+  float: left;
+  margin-right: 2%;
+  margin-top: 2%;
+}
+.margin-mode {
+  margin-left: 19%;
 }
 
 .amigos {
   height: 300px;
+}
+.progreso-p-3 {
+  margin-left: 40%;
+  margin-right: 25%;
+  display: block;
+}
+.jugar {
+  margin-top: 5%;
+}
+
+.img-shimada {
+  height: 55%;
+  float: left;
+  display: block;
+  margin-left: 15%;
+  position: absolute;
+  top: 2067%;
 }
 
 .redes {
