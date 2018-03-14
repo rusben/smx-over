@@ -11,14 +11,10 @@ body {
   height: 650px;
   background-image: url('backgrounds/bg1.jpg');
   background-size: 100%;
-  border: 3px;
-  border: 3px;
-  border: 3px;
-  border: 3px;
-  border-style: inset;
-  border-color: white;
-  border
-
+  border-bottom: 5px solid hsla(0,0%,100%,.5);
+  padding-top: 2%;
+  font-family: "Big Noodle Too",impact,sans-serif;
+  font-style: italic;
 }
 
 
@@ -42,10 +38,10 @@ body {
 .tu_heroe {
   height: 800px;
   background-image: url('https://i2.wp.com/guiik.com/wp-content/uploads/2018/01/razer-overwatch-header-mobile.jpg?fit=1920%2C800&ssl=1');
-  background-size: 105%;
-  border: 3px;
-  border-style: inset;
-  border-color: white;
+  background-size: 107%;
+  border-bottom: 5px solid hsla(0,0%,100%,.5);
+  padding-top: 2%;
+  background-position: top;
 }
 
 .elige_tu_heroe {
@@ -53,6 +49,8 @@ body {
   margin-top: 17%;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: "Big Noodle Too",impact,sans-serif;
+  font-style: italic;
 }
 
 .p2 {
@@ -61,6 +59,8 @@ body {
   margin-left: 35%;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: Arial,sans-serif;
+
 }
 
 .ver_todos_los_heroes {
@@ -71,15 +71,17 @@ body {
   padding: 0.5%;
   background-color: #ff9c00;
   color: white;
+  font-family: Arial,sans-serif;
+  font-style: normal;
 }
 
 .funciones {
   height: 1050px;
   background-image: url('http://www.helderpinto.com/wp-content/uploads/2014/11/Helder_Pinto_Kings_Row_02.jpg');
   background-size: 105%;
-  border: 3px;
-  border-style: inset;
-  border-color: white;
+  border-bottom: 5px solid hsla(0,0%,100%,.5);
+  padding-top: 2%;
+
 }
 
 .funciones_de_los_heroes {
@@ -87,6 +89,8 @@ body {
   text-align: center;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: "Big Noodle Too",impact,sans-serif;
+  font-style: italic;
 }
 
 .img-roles {
@@ -100,6 +104,8 @@ body {
   float: left;
   margin-left: 12%;
   color: white;
+  font-family: Arial,sans-serif;
+
 }
 
 .column2 {
@@ -107,6 +113,8 @@ body {
   float: left;
   margin-left: 1%;
   color: white;
+  font-family: Arial,sans-serif;
+
 }
 
 .column3 {
@@ -114,6 +122,8 @@ body {
   float: left;
   margin-left: 1%;
   color: white;
+  font-family: Arial,sans-serif;
+
 }
 
 .column4 {
@@ -121,6 +131,8 @@ body {
   float: left;
   margin-left: 1%;
   color: white;
+  font-family: Arial,sans-serif;
+
 }
 
 .mapas_info {
@@ -132,15 +144,15 @@ body {
 }
 .mapas_content {
   background-image: url('https://d3hmvhl7ru3t12.cloudfront.net/img/pages/game/backgrounds/bg-maps-section-16d9e0ba084784410337ae843cccd0d4dc2fd2edac01f8bc32453b010575950986b9cea99a856ca08ffcb227d7d8cfd444bc04d246679d3010a4017d4ff0f9d8.jpg');
-  border: 3px;
-  border-style: inset;
-  border-color: white;
+  border-bottom: 5px solid hsla(0,0%,100%,.5);
+
 }
 .mapas {
   text-align: center;
-  margin-top: 4%;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: "Big Noodle Too",impact,sans-serif;
+  font-style: italic;
 }
 
 .p3 {
@@ -149,6 +161,8 @@ body {
   margin-left: 24%;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: Arial,sans-serif;
+
 }
 
 .modos_info {
@@ -254,6 +268,8 @@ body {
 .p4 {
   margin-top: 0;
   color: white;
+  font-family: Arial,sans-serif;
+
 }
 
 h4 {
@@ -293,15 +309,17 @@ h4 {
   text-align: center;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: Arial,sans-serif;
+
 }
 
 .fundamentos {
   height: 980px;
   background-image: url('https://images6.alphacoders.com/717/thumb-1920-717752.jpg');
   background-size: 105%;
-  border: 3px;
-  border-style: inset;
-  border-color: white;
+  border-bottom: 5px solid hsla(0,0%,100%,.5);
+  padding-top: 2%;
+
 }
 
 .fundamentos-title {
@@ -309,7 +327,8 @@ h4 {
   margin-top: 4%;
   color: white;
   text-shadow: 1px 1px 2px black;
-
+  font-family: "Big Noodle Too",impact,sans-serif;
+  font-style: italic;
 }
 
 .fundamentos-txt {
@@ -320,6 +339,8 @@ h4 {
   display: block;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: Arial,sans-serif;
+
 }
 
 .fundamentos-p {
@@ -327,6 +348,8 @@ h4 {
   margin-right: 50%;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: Arial,sans-serif;
+
 }
 
 .partida-title {
@@ -334,6 +357,8 @@ h4 {
   margin-top: 4%;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: "Big Noodle Too",impact,sans-serif;
+  font-style: italic;
 }
 
 .partida-txt {
@@ -349,17 +374,18 @@ h4 {
   margin-right: 50%;
   color: white;
   text-shadow: 1px 1px 2px black;
+  font-family: Arial,sans-serif;
+
 }
 
 .partida {
   height: 1380px;
   background-image: url('http://wallpapersbq.com/images/overwatch/overwatch-wallpaper-3.jpg');
   background-size: 105%;
-  border: 3px;
-  border-style: inset;
-  border-color: white;
+  border-bottom: 5px solid hsla(0,0%,100%,.5);
   background-size: 150%;
   background-position: top;
+  padding-top: 2%;
 }
 
 .partida-box {
@@ -379,11 +405,20 @@ h4 {
 
 .progreso {
   height: 1680px;
+  background-color: #17121d;
+  padding-top: 2%;
+  padding-bottom: 6%;
+  border-bottom: 5px solid hsla(0,0%,100%,.5);
 }
 
 .progreso-title {
   text-align: center;
   margin-top: 4%;
+  color: #f0edf2;
+  text-shadow: 1px 1px 2px black;
+  font-family: "Big Noodle Too",impact,sans-serif;
+  font-style: italic;
+
 }
 
 .progreso-txt {
@@ -392,6 +427,10 @@ h4 {
   margin-left: 33.333%;
   max-width: 33.333%;
   display: block;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  font-family: Arial,sans-serif;
+
 }
 
 .img-progreso {
@@ -405,11 +444,19 @@ h4 {
   margin-left: 15%;
   margin-right: 50%;
   display: -webkit-inline-box;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  font-family: Arial,sans-serif;
+
 }
 .progreso-p-2 {
   margin-left: 40%;
   margin-right: 25%;
   display: block;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  font-family: Arial,sans-serif;
+
 }
 
 .img-progreso-rank {
@@ -426,9 +473,13 @@ h4 {
 }
 .botin {
   margin-top: 5%;
-}
+  }
 .modos {
   height: 1400px;
+  background-image: url(https://d3hmvhl7ru3t12.cloudfront.net/img/pages/game/backgrounds/bg-gamemodes-94fdb6a126f8f0d10ef54ca74364e763428cdaa92dbb6554e560506f032fc0ffaa7011f9cc333575e644fb89fbe1c570ae2c689cc7565aea489daf5cbc59eed7.jpg);
+  padding-top: 2%;
+  border-bottom: 5px solid hsla(0,0%,100%,.5);
+
 }
 .div-mode {
   max-width: 20%;
@@ -437,27 +488,35 @@ h4 {
   margin-top: 2%;
 }
 .margin-mode {
-  margin-left: 19%;
+  margin-left: 24%;
 }
 
 .amigos {
   height: 300px;
+  background-color: #28354f;
+  padding-top: 2%;
+  border-bottom: 5px solid hsla(0,0%,100%,.5);
+
 }
 .progreso-p-3 {
   margin-left: 40%;
   margin-right: 25%;
   display: block;
+  color: #9daac8;
+  font-family: Arial,sans-serif;
+
 }
 .jugar {
-  margin-top: 5%;
+  color: #f0edf2;
+
 }
 
 .img-shimada {
-  height: 55%;
+  width: 23%;
   float: left;
   display: block;
-  margin-left: 15%;
-  margin-top: -200px;
+  margin-left: 24%;
+  margin-top: -5.6%;
 }
 
 .redes {
