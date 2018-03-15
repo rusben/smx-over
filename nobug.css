@@ -292,8 +292,8 @@ nav {}
 width: 5%; /*Este solo para view watch-trailer*/
 vertical-align: middle;
 padding: 15px 2.5em;
-border-radius: 3px; /*Borde redondo*/
-border: 3px solid transparent; /*El solid transparent lo hace más rechoncho*/
+border-radius: 3px;
+/*Borde redondo*/border: 3px solid transparent; /*El solid transparent lo hace más rechoncho*/
 font-family: futura,century gothic,arial,sans-serif;
 font-weight: 700;/*Si lo quito el subrayado se quita*/
 /*font-size: 1.6rem;*/
