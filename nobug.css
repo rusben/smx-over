@@ -1,29 +1,11 @@
-div {border: 1px solid black;}
-
-body {
-  margin:0px;
-}
-
+body {margin:0px;}
 .clearfix { clear: both;}
- /* Section 1 */
-/*-----------*/
 
-
- /* Section 2 */
-/*-----------*/
-
-
-#menu-scroll {
-  margin-top: 1%;
-  margin-left: 2%;
-  margin-right: 2%;
-  margin-bottom: 1.5%;
-  padding: 1%;
-}
+/*MAS COSAS DE LA PORTADA*/
  #image-over {
-  margin-bottom: 3%;
-  width: 15%;
-  text-align: center;
+ margin-bottom: 3%;
+ width: 15%;
+ text-align: center;
 }
 
 #buy-now {
@@ -41,232 +23,271 @@ width: 15%;
 text-align: center;
 padding: 1%;
 }
+/*---------------------------------------------------------*/
 
- /* Section 3 */
-/*-----------*/
-
+/*-------------------------ARTICULO 2-----------------------*/
 #featured-news {
-  background-image: url("https://d3hmvhl7ru3t12.cloudfront.net/img/pages/home/fight-for-the-future/volskaya-2560-9570e63637d0f4eb811cc11cc3b91005987bc21949bf8d9d48ebb9b4e67aa872f58666702415c32aef6c85fb36b567717857fb868ed9940280173a331e9b7ddf.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+ border: 1px solid black;
+ background-image: url("https://d3hmvhl7ru3t12.cloudfront.net/img/pages/home/fight-for-the-future/volskaya-2560-9570e63637d0f4eb811cc11cc3b91005987bc21949bf8d9d48ebb9b4e67aa872f58666702415c32aef6c85fb36b567717857fb868ed9940280173a331e9b7ddf.jpg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
 }
 
 #featured-text {
-  margin-left: 39.5%;
-  margin-right: 42%;
-  margin-top: 2%;
-  text-align: center;
-  width: 20%;
-  padding: 1%;
-
+ margin-left: 39.5%;
+ margin-right: 42%;
+ margin-top: 2%;
+ text-align: center;
+ width: 20%;
+ padding: 1%;
+ font-family: 'big_noodle';
+ font-size: 250%;
 }
 
 .featured-video1 {
-  margin-left: 20%;
-  display: inline-block;
-  margin-top: 1%;
-  text-align: center;
-  padding: 0%;
+ margin-left: 20%;
+ display: inline-block;
+ margin-top: 1%;
+ text-align: center;
+ padding: 0%;
 }
 .featured-video2 {
-  margin-left: 2%;
-  margin-right: 2%;
+ margin-left: 2%;
+ margin-right: 2%;
 
-  display: inline-block;
-  margin-top: 1%;
-  text-align: center;
-  padding: 0%;
+ display: inline-block;
+ margin-top: 1%;
+ text-align: center;
+ padding: 0%;
 }
 .featured-video3 {
-  margin-right: 20%;
-  display: inline-block;
-  margin-top: 1%;
-  text-align: center;
-  padding: 0%;
+ margin-right: 20%;
+ display: inline-block;
+ margin-top: 1%;
+ text-align: center;
+ padding: 0%;
 }
 
 #view-all-news {
-  margin-left: 39.5%;
-  margin-right: 42%;
-  margin-top: 2%;
-  text-align: center;
-  width: 20%;
-  padding: 1%;
-  margin-bottom: 3%;
+ margin-left: 39.5%;
+ margin-right: 42%;
+ margin-top: 2%;
+ text-align: center;
+ width: 20%;
+ padding: 1%;
+ margin-bottom: 3%;
 }
+/*---------------------------------------------------------*/
 
- /* Section 4 */
-/*-----------*/
+ /*-------------------------ARTICULO 2-----------------------*/
 #fight-future {
-  background-image: url("https://d3hmvhl7ru3t12.cloudfront.net/img/pages/home/fight-for-the-future/london-2560-315e74f8af81f11bfa7c4e175712246b104203b24e9a360540ff407c5fb4d48fb039f2e4ded78a803b57ba5ba84a9c974c24a322950a0f106d4457554418cfb8.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+  border: 1px solid black;
+ background-image: url("https://d3hmvhl7ru3t12.cloudfront.net/img/pages/home/fight-for-the-future/london-2560-315e74f8af81f11bfa7c4e175712246b104203b24e9a360540ff407c5fb4d48fb039f2e4ded78a803b57ba5ba84a9c974c24a322950a0f106d4457554418cfb8.jpg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+
 }
 #fight-title {
-  text-align: center;
-  width: 25%;
-  margin-left: 36.5%;
-  margin-top: 3%;
-  padding: 0.5%;
-  margin-bottom: 1%;
+ text-align: center;
+ width: 25%;
+ margin-left: 36.5%;
+ margin-top: 3%;
+ padding: 0.5%;
+ margin-bottom: 1%;
+ font-family: 'big_noodle';
+ font-size: 250%;
 }
 
 #fight-text {
-  text-align: center;
-  width: 35%;
-  margin-left: 26%;
-  margin-bottom: 1%;
-  padding-right: 7%;
-  padding-left: 7%;
+ text-align: center;
+ width: 35%;
+ margin-left: 26%;
+ margin-bottom: 1%;
+ padding-right: 7%;
+ padding-left: 7%;
+}
+
+#fight-text p1 {
+  font-family: 'futura';
+}
+
+#fight-text p2 {
+  font-family: Arial, sans-serif;
+}
+
+#fight-text p3 {
+  font-family: Arial, sans-serif;
+}
+
+#fight-text p4 {
+  font-family: Arial, sans-serif;
 }
 
 #explore-game {
-  text-align: center;
-  width: 20%;
-  margin-left: 39.5%;
-  margin-bottom: 3%;
-  padding: 1%;
+ text-align: center;
+ width: 20%;
+ margin-left: 39.5%;
+ margin-bottom: 3%;
+ padding: 1%;
 }
-
+/*---------------------------------------------------------*/
 
 /*------------------------ MENU 1------------------------- */
+header {}
+
 #menu-fixed {
-    background:#000000;
+  border: 1px solid black;
+ background:#000000;
 
 }
 
 #menu-fixed ul {
-    list-style: none;
-    overflow: hidden;
+  border: 1px solid black;
+ list-style: none;
+ overflow: hidden;
 }
 
 #menu-fixed ul li {
-    float: left;
+  border: 1px solid black;
+ float: left;
 }
 
 #menu-fixed ul li a {
-    display: block;
-    padding:0px;
-  padding-right: 27px;
-    color:#d9d9d9;
-    text-decoration: none;
+  border: 1px solid black;
+ display: block;
+ padding:0px;
+ padding-right: 27px;
+ color:#d9d9d9;
+ text-decoration: none;
+ font-family: 'futura';
+
 }
 
 #menu-fixed ul li a:hover {
-  color:#fff;
+  border: 1px solid black;
+ color:#fff;
 
 }
 /*--------------------------------------------------------*/
 
 /*---------------------------MENU 2-----------------------*/
+nav {}
 .menu-scroll {
-  background:#000000;
-  margin-top:20px;
-  margin-bottom:20px;
-  margin-left: 9%;
-  margin-right: 8%;
-  width: 80%;
-  opacity: 0.9;
-
+  border: 1px solid black;
+ background:#000000;
+ margin-top:20px;
+ margin-bottom:20px;
+ margin-left: 9%;
+ margin-right: 8%;
+ width: 80%;
+ opacity: 0.9;
 }
 
 .menu-scroll ul {
-    list-style: none;
-    overflow: hidden;
+  border: 1px solid black;
+ list-style: none;
+ overflow: hidden;
 
 }
 
 .menu-scroll ul li {
-    float: left;
+  border: 1px solid black;
+ float: left;
 
 }
 
 .menu-scroll ul li a {
-    display: block;
-    padding:5px;
-    color:#d9d9d9;
-    text-decoration: none;
+  border: 1px solid black;
+ display: block;
+ padding:5px;
+ color:#d9d9d9;
+ text-decoration: none;
+ font-family: 'futura';
+
 
 
 }
 
 .menu-scroll ul li a:hover {
-  color: #ff6600;
+  border: 1px solid black;
+ color: #ff6600;
 }
 
 /* --- Clase que agregaremos cuando el usuario haga scroll --- */
 .clase-agregada {
-    position:fixed;
-    z-index:1000;
-    top:0;
+  border: 1px solid black;
+ position:fixed;
+ z-index:1000;
+ top:0;
 
-    box-shadow:0px 4px 3px rgba(0,0,0,.5);
+ box-shadow:0px 4px 3px rgba(0,0,0,.5);
 }
+ /*--------------------------------------------------------*/
 
-  /*--------------------------------------------------------*/
+/*------AQUI ESTA TOD0 LO QUE HAY DENTRO DE LA PORTADA-----*/
+ .hero-image {
+   border: 1px solid black;
+ background-image: url("https://media.redadn.es/imagenes/overwatch-pc-ps4-xbox-one_291061.jpg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+ }
+
+ .hero-text {
+ text-align: center;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ color: white;
+ margin-top: 50px !important;
+ }
+
+ .pene {
+ margin-right: 100%;
+ width: 100%;
+ }
+
+ .nepe {
+ width: 80%;
+ }
+ .heroe-text {
+ margin-top: 10%;
+ font-family: 'futura';
+
+ }
 
 
+ .hero-text button {
+ border: none;
+ outline: 0;
+ display: inline-block;
+ padding: 10px 25px;
+ color: black;
+ background-color: #ddd;
+ text-align: center;
+ cursor: pointer;
+ }
 
-  .hero-image {
-    background-image: url("https://media.redadn.es/imagenes/overwatch-pc-ps4-xbox-one_291061.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-  }
+ .hero-text button:hover {
+ background-color: #555;
+ color: white;
+ }
+/*---------------------------------------------------*/
 
-  .hero-text {
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    margin-top: 50px !important;
-  }
-
-  .pene {
-    margin-right: 100%;
-    width: 100%;
-  }
-
-  .nepe {
-    width: 80%;
-  }
-  .heroe-text {
-    margin-top: 10%;
-  }
-
-
-  .hero-text button {
-    border: none;
-    outline: 0;
-    display: inline-block;
-    padding: 10px 25px;
-    color: black;
-    background-color: #ddd;
-    text-align: center;
-    cursor: pointer;
-  }
-
-  .hero-text button:hover {
-    background-color: #555;
-    color: white;
-  }
-
-/*BOTON DE EXPLORE THE GAME*/
-
+/*--------------------BOTONES------------------------*/
 .button-cmamut {
 width: 5%; /*Este solo para view watch-trailer*/
 vertical-align: middle;
 padding: 15px 2.5em;
 border-radius: 3px; /*Borde redondo*/
 border: 3px solid transparent; /*El solid transparent lo hace más rechoncho*/
-font-family: FuturaNo2D,century gothic,arial,sans-serif;
+font-family: futura,century gothic,arial,sans-serif;
 font-weight: 700;/*Si lo quito el subrayado se quita*/
 /*font-size: 1.6rem;*/
 text-align: center;
@@ -279,143 +300,175 @@ background-color: #00a5e2;
 color: #fefefe;
 }
 
+/*BOTON DE BUY NOW*/
 .button-cmamut-orange {
-  width: 50px;
-  background-color: #ffb033;
-  color: #fefefe;
+ width: 50px;
+ background-color: #ffb033;
+ color: #fefefe;
 }
 
+/*BOTON DE VIEW ALL NEWS*/
 .button-cmamut-blue {
-  background-color: #00a5e2;
-  color: #fefefe;
+ background-color: #00a5e2;
+ color: #fefefe;
 }
 
+/*BOTON DE WATCH TRAILER*/
 .button-cmamut-white {
-  background-color: #fff;
-  color: #333;
+ background-color: #fff;
+ color: #333;
 }
-
-
-/*
-.one-button-row { margin: 20px; }
-*/
-
-/*ICONO PLAY DE WATCH TRAILER*/
+/*-------------------------------------*/
+/*-------ICONO PLAY DE WATCH TRAILER (EL BOTON)-----*/
 .image-iconsito {
-  width: 1.5%;
-  height: 1.5%;
-  margin-right: 4px;
-  margin-top: 10px;
-  vertical-align: text-bottom;
+ width: 1.5%;
+ height: 1.5%;
+ margin-right: 4px;
+ margin-top: 10px;
+ vertical-align: text-bottom;
 }
+/*--------------------------------------------------*/
+
+/*---------------- ARTICULO 4 (1/2) ----------------*/
 
 #heroe-selector {
-
+  border: 1px solid black;
+background-image: url(https://d3hmvhl7ru3t12.cloudfront.net/img/scene/candy-895e91cbc198218dbe56fed67b590a7c37a8bc3ef29d4b8c2989edf2196cfdb4b6150e64cb6f57a01a26268ae764b4cc22da52168121287e68aa8a9891efd616.jpg);
 }
 
 #need-heroes {
-  text-align: center;
-  width: 25%;
-  margin-left: 36.5%;
-  margin-top: 3%;
-  padding: 0.5%;
-  margin-bottom: 1%;
+ text-align: center;
+ width: 25%;
+ margin-left: 36.5%;
+ margin-top: 3%;
+ padding: 0.5%;
+ margin-bottom: 1%;
+ font-family: 'big_noodle';
+ font-size: 250%;
 }
 
 #text-heroes {
-  text-align: center;
-  width: 35%;
-  margin-left: 30%;
-  padding: 2%;
-  margin-bottom: 8%;
-  font-family: 'big_noodle';
-
+ text-align: center;
+ width: 35%;
+ margin-left: 30%;
+ padding: 2%;
+ margin-bottom: 8%;
+ font-family: 'futura';
 }
+/*---------------------------------------------*/
 
+/*-------------ESTILOS DE LETRAS---------------*/
 /*LETRA BIG NOODLE*/
 @font-face {
-  font-family: 'big_noodle';
-  src: url('big_noodle_titling.ttf');
+ font-family: 'big_noodle';
+ src: url('big_noodle_titling.ttf');
 }
+/*LETRA FUTURA T BOLD*/
+@font-face {
+  font-family: 'futura';
+  src: url('Futura T Bold.ttf')
+}
+/*---------------------------------------------*/
 
-
+/*------------------ARTICULO 4 (2/2) -----------------*/
 }
 #line-heroes{
 }
 
 .line1 {
-  background-image: url('icon-portrait/sombra.png');
-  overflow: hidden;
-  padding-right: 2.5%;
-  padding-left: 2.5%;
-  padding-top: 2.5%;
-  padding-bottom: 2%;
-  width: 1%;
-  text-align: center;
-  border-radius: 10px;
-  -ms-transform: skew(25rad);
-  transform: skew(25rad);
-  display: inline-block;
-  margin-left: 0.5%;
+  border: 1px solid black;
+ overflow: hidden;
+background-color: #405275;
+ text-align: center;
+ border-radius: 10px;
+ -ms-transform: skew(25rad);
+ transform: skew(25rad);
+ display: inline-block;
+ margin-left: 0.5%;
 
 }
 
+.line1:hover{
+  border: 1px solid black;
+  background-color: #ff9c00;
+  /*width: calc(100% + 10px); NO FUNCIONA BIEN PREGUNTAR AL PROFE*/
+
+}
 .line2 {
-  background-image: url('icon-portrait/bastion.png');
+  border: 1px solid black;
+ overflow: hidden;
+background-color: #405275;
 
-  overflow: hidden;
-  width: 1%;
-  padding-right: 2.5%;
-  padding-left: 2.5%;
-  padding-top: 2.5%;
-  padding-bottom: 2%;
-
-  text-align: center;
-  border-radius: 10px;
-  -ms-transform: skew(25rad);
-  transform: skew(25rad);
-  display: inline-block;
-  margin-bottom: 5%;
-  margin-left: 0.5%;
-  margin-top: 1%;
+ text-align: center;
+ border-radius: 10px;
+ -ms-transform: skew(25rad);
+ transform: skew(25rad);
+ display: inline-block;
+ margin-bottom: 5%;
+ margin-left: 0.5%;
+ margin-top: 1%;
 }
 
+.line2:hover{
+  border: 1px solid black;
+  background-color: #ff9c00;
+  /*width: calc(100% + 10px); NO FUNCIONA BIEN PREGUNTAR AL PROFE*/
+}
+/*---------------------------------------------*/
 
+/*-----------------FOOTER----------------------*/
+footer {}
 #begin-watch {
-
+  background-image: url(https://d3hmvhl7ru3t12.cloudfront.net/img/bg-museum-2fe485c6cfa12dd07ebae267c34de56e6e504a3ded661dab4da27892f6639f6407c66bf577bede8448500eedd9ab620b0a899683f50da3a4849e3038312aded4.jpg);
 }
 #begin-image {
-  float: left;
-  width: 30%;
-  padding-top: 12.5%;
-  padding-bottom: 12.5%;
-  padding-right: 12.5%;
-  text-align: center;
-  margin-left: 5%;
+ float: left;
+ width: 20%;
+ padding-right: 12.5%;
+ margin-top: -8%;
 }
 #begin-title {
-  float: right;
-  margin-right: 22%;
-  margin-top: 3%;
-  text-align: center;
-  width: 20%;
-  padding: 1%;
+ float: right;
+ margin-right: 22%;
+ margin-top: 3%;
+ text-align: center;
+ width: 20%;
+ padding: 1%;
+ font-family: 'big_noodle';
+ font-size: 250%;
 }
 #begin-text {
-  float: right;
-  margin-right: 22%;
-  margin-top: 3%;
-  text-align: center;
-  width: 20%;
-  padding: 1%;
+ float: right;
+ margin-right: 22%;
+ margin-top: 1%;
+ text-align: center;
+ width: 20%;
+ padding: 1%;
+ font-family: 'futura';
 }
-#begin-buy {
-  float: right;
-  margin-right: 22%;
-  margin-top: 3%;
+.cmamutespecial {
+  width: 5%; /*Este solo para view watch-trailer*/
+  vertical-align: middle;
+  padding: 6px 1em;
+  border-radius: 3px; /*Borde redondo*/
+  border: 3px solid transparent; /*El solid transparent lo hace más rechoncho*/
+  font-family: futura,century gothic,arial,sans-serif;
+  font-weight: 700;/*Si lo quito el subrayado se quita*/
+  /*font-size: 1.6rem;*/
   text-align: center;
-  width: 20%;
-  padding: 1%;
+  /*line-height: 1;*/
+  letter-spacing: .025em; /*Espacio entre letras*/
+  /*text-shadow: none;*/
+  text-decoration: none; /*Quitar el subrayado*/
+  /*outline: none;*/
+   background-color: #ffb033;
+   color: #fefefe;
+}
+#begin-cmamut {
+ float: right;
+ margin-right: 23%;
+ text-align: center;
+ width: 20%;
 }
 #begin-image2 {
   float: right;
@@ -424,7 +477,71 @@ color: #fefefe;
   text-align: center;
   width: 20%;
   padding: 1%;
-  margin-bottom: 1%;
 }
 
-#stay-conected {}
+#stay-conected {
+  background-image: url(https://d3hmvhl7ru3t12.cloudfront.net/img/pages/buy/buy-bar-bg-b848f091bff6072bda7671311ce459727decd0281e85902958bc8d6b0b4d342875ad58385fa809928fd9b6bff0f7945217aed6e32581b6718a12fb99ab240f1c.jpg);
+
+}
+/*---------------------------------------------*/
+
+/*--------------EFECTO PARALLAX---------------*/
+  .parallax {
+   /* The image used */
+   background-image: url("https://d3hmvhl7ru3t12.cloudfront.net/img/pages/home/dorado-desktop-2cfea7233598311850e3f484a91e1d48df48496ff062b0b639595bfa217c0ce1129464b6b3e3107c165b24e99a794aa181244d4b440507e9e02a5abba3f08583.jpg");
+   /* Set a specific height */
+   min-height: 500px;
+   /* Create the parallax scrolling effect */
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+  }
+/*---------------------------------------------*/
+
+#stay-conected {
+  text-align: center;
+  font-family: 'big_noodle';
+  font-size: 250%;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  margin-top: -20%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+background: #bb0000;
+color: white;
+}
+
+.fa-instagram {
+background: #CA2E93;
+color: white;
+}
+
+/**/
+  /*ME FALTA PONER LOS ARTICULOS AIUDAAAAAAAAAAAAAAAAAA*/
+/**/
