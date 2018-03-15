@@ -43,7 +43,8 @@ padding: 1%;
  width: 20%;
  padding: 1%;
  font-family: 'big_noodle';
- font-size: 250%;
+ font-size: 300%;
+ color: #405275;
 }
 
 .featured-video1 {
@@ -89,7 +90,7 @@ padding: 1%;
  background-repeat: no-repeat;
  background-size: cover;
  position: relative;
-
+ color: white;
 }
 #fight-title {
  text-align: center;
@@ -258,8 +259,9 @@ nav {}
  }
  .heroe-text {
  margin-top: 10%;
- font-family: 'futura';
-
+ font-family: 'big_noodle';
+ font-size: 250%;
+ color: white;
  }
 
 
