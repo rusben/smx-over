@@ -240,7 +240,7 @@ nav {}
  }
  .hero-image2 {
  border: 1px solid black;
- background-image: url('backgrounds/bg1.jpg');
+ background-image: url('bg1.jpg');
  background-size: 110%;
  position: relative;
  }
