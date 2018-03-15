@@ -238,7 +238,12 @@ nav {}
  background-size: cover;
  position: relative;
  }
-
+ .hero-image2 {
+ border: 1px solid black;
+ background-image: url('backgrounds/bg1.jpg');
+ background-size: 110%;
+ position: relative;
+ }
  .hero-text {
  text-align: center;
  position: absolute;
@@ -287,8 +292,8 @@ nav {}
 width: 5%; /*Este solo para view watch-trailer*/
 vertical-align: middle;
 padding: 15px 2.5em;
-border-radius: 3px; /*Borde redondo*/
-border: 3px solid transparent; /*El solid transparent lo hace más rechoncho*/
+border-radius: 3px;
+/*Borde redondo*/border: 3px solid transparent; /*El solid transparent lo hace más rechoncho*/
 font-family: futura,century gothic,arial,sans-serif;
 font-weight: 700;/*Si lo quito el subrayado se quita*/
 /*font-size: 1.6rem;*/
@@ -503,8 +508,10 @@ footer {}
 
 #stay-conected {
   text-align: center;
-  font-family: 'big_noodle';
+  font-family: "Big Noodle Too", impact, sans-serif;
+  font-style: italic;
   font-size: 250%;
+  color: white;
 }
 
 
