@@ -6,8 +6,8 @@ body {
 
 .bienvenidos {
   height: 650px;
-  background-image: url('backgrounds/bg1.jpg');
-  background-size: 100%;
+  /*background-image: url('backgrounds/bg1.jpg');
+  background-size: 100%;*/
   border-bottom: 5px solid hsla(0, 0%, 100%, .5);
   padding-top: 2%;
   font-family: "Big Noodle Too", impact, sans-serif;
@@ -393,7 +393,7 @@ h4 {
 
 .partida {
   height: 1380px;
-  background-image: url('http://wallpapersbq.com/images/overwatch/overwatch-wallpaper-3.jpg');
+  background-image: url('backgrounds/overwatch.jpeg');
   border-bottom: 5px solid hsla(0, 0%, 100%, .5);
   background-size: 152%;
   background-position: top;
@@ -532,6 +532,8 @@ h4 {
 
 .jugar {
   color: #f0edf2;
+  font-family: "Big Noodle Too", impact, sans-serif;
+  font-style: italic;
 }
 
 .img-shimada {
@@ -549,5 +551,5 @@ h4 {
 }
 
 footer {
-  height: 400px;
+  height: 200px;
 }
